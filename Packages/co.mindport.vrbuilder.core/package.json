@@ -1,0 +1,18 @@
+{
+  "displayName": "VR Builder",
+  "name": "co.mindport.vrbuilder.core",
+  "version": "4.3.0",
+  "unity": "2021.3",
+  "description": "VR Builder core functionality.",
+  "keywords": [
+    "builder",
+    "vr",
+    "core",
+    "mindport"
+  ],
+  "author": {
+    "name": "MindPort",
+    "email": "contact@mindport.co",
+    "url" : "https://mindport.co/"
+  }
+}
